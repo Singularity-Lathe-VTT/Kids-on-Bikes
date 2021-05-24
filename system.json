@@ -1,0 +1,29 @@
+{
+  "name": "kidsonbikes",
+  "title": "Kids on Bikes",
+  "description": "The Kids on Bikes system for FoundryVTT!",
+  "version": "1.0.0",
+  "minimumCoreVersion": "0.7.5",
+  "compatibleCoreVersion": "0.7.9",
+  "templateVersion": 2,
+  "author": "Josiah Bradbury",
+  "esmodules": ["module/kidsonbikes.js"],
+  "styles": ["css/kidsonbikes.css"],
+  "scripts": [],
+  "packs": [],
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "lang/en.json"
+    }
+  ],
+  "gridDistance": 5,
+  "gridUnits": "ft",
+  "primaryTokenAttribute": "health",
+  "secondaryTokenAttribute": "power",
+  "url": "",
+  "manifest": "",
+  "download": "",
+  "license": "LICENSE.txt"
+}
